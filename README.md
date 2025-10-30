@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer | Vue 2/3 | JavaScript<br><br>I love creating user-friendly and beautiful web applications, exploring modern technologies, and continuously improving my skills.<br>Tech stack: Vue 3, Pinia, Vue Router, Tailwind CSS<br>Passionate about UI design, animations, and user experience.<br>Currently learning: Nuxt, TypeScript<br>Open to exciting projects and collaborations.
+Frontend Developer | Vue 2/3 | React | JavaScript<br><br><br>Tech stack: Vue 3, React, Zustand, Pinia, Vue Router, Tailwind CSS<br>Passionate about UI design, animations, and user experience.<br>Currently learning: TypeScript<br>Open to exciting projects and collaborations.
 
 
 ## 🌐 Socials:
