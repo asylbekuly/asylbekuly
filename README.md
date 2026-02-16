@@ -9,7 +9,6 @@ Frontend Developer | React & Vue 3 | TypeScript <br>Tech Stack: React 18/19, Vue
 ![](https://nirzak-streak-stats.vercel.app/?user=asylbekuly&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asylbekuly&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asylbekuly&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
